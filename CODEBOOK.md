@@ -1,7 +1,7 @@
 #CODE BOOK
 
 ##VARIABLES INCLUDED
-In my final data set, I have included the average of the above variables, for each subject and activity. The first two columns of the dataset are "subject", and "activity", which contain the subject number and the activity performed respectively.
+In my final data set, I have included the average of the below variables, for each subject and activity. The first two columns of the dataset are "subject", and "activity", which contain the subject number and the activity performed respectively.
 
 
 ##BACKGROUND INFORMATION
